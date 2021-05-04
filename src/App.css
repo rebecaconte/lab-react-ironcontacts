@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+/* ITERATION 5 */
+
+.iron-contact-header{
+  font-size: 40px;
+  margin-bottom: 10px;
+  margin-top: 20px;
+}
+
+.btn-contact{
+  margin-bottom: 10px;
+  margin-right: 10px;
+}
+
+.table-contacts{
+  margin-right: 10px;
+}
+
+.btn-delete{
+  margin-left: 70px;
+}
